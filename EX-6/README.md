@@ -1,6 +1,7 @@
 **IMPLEMENTATION OF MULTIVARIATE DISPLAYS**
 
 **Student Name:** Varsini K
+
 **Register Number:** 23BAD123
 
 ---
