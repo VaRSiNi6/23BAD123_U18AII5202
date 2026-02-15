@@ -1,8 +1,8 @@
 **IMPLEMENTATION OF DATA VISUALIZATION TECHNIQUES**
 
-**Name: Varsini K
+Name: Varsini K
 
-Register Number: 23BAD123**
+Register Number: 23BAD123
 
 Course: Artificial Intelligence & Data Science
 
